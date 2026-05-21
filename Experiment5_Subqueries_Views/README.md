@@ -38,7 +38,7 @@ DROP VIEW view_name;
 
 **Question 1**
 
--- ![Screenshot 2025-04-29 140920](https://github.com/user-attachments/assets/e9bb55a0-ef1c-49e5-9d77-9c147822d3f3)
+![Screenshot 2025-04-29 140920](https://github.com/user-attachments/assets/e9bb55a0-ef1c-49e5-9d77-9c147822d3f3)
 
 
 ```sql
@@ -59,7 +59,7 @@ WHERE grade = (
 
 **Question 2**
 
--- ![Screenshot 2025-04-29 141038](https://github.com/user-attachments/assets/93d0cd11-d5c2-4f23-b08b-4a9dcbef4e7d)
+![Screenshot 2025-04-29 141038](https://github.com/user-attachments/assets/93d0cd11-d5c2-4f23-b08b-4a9dcbef4e7d)
 
 
 ```sql
@@ -77,7 +77,7 @@ WHERE s.city = 'New York';
 
 **Question 3**
 
--- ![Screenshot 2025-04-29 141156](https://github.com/user-attachments/assets/8cb24975-fdd1-4a13-a21a-0cf8680b04e0)
+![Screenshot 2025-04-29 141156](https://github.com/user-attachments/assets/8cb24975-fdd1-4a13-a21a-0cf8680b04e0)
 
 ```sql
 SELECT g.student_name, g.grade
@@ -96,7 +96,7 @@ WHERE g.grade = (
 
 **Question 4**
 
--- ![Screenshot 2025-04-29 141354](https://github.com/user-attachments/assets/9ff0825e-9c67-4ffe-9e92-3f661c3ded5d)
+![Screenshot 2025-04-29 141354](https://github.com/user-attachments/assets/9ff0825e-9c67-4ffe-9e92-3f661c3ded5d)
 
 
 ```sql
@@ -118,7 +118,7 @@ WHERE phone IN (
 
 **Question 5**
 
---![Screenshot 2025-04-29 141459](https://github.com/user-attachments/assets/1dc4420f-645f-40c7-a3ba-1c851cf9cb00)
+![Screenshot 2025-04-29 141459](https://github.com/user-attachments/assets/1dc4420f-645f-40c7-a3ba-1c851cf9cb00)
 
 
 ```sql
@@ -135,7 +135,7 @@ WHERE SALARY > 1500;
 
 **Question 6**
 
--- ![Screenshot 2025-04-29 141556](https://github.com/user-attachments/assets/7cb63ea6-499d-4ed3-bfc8-934ede81615b)
+![Screenshot 2025-04-29 141556](https://github.com/user-attachments/assets/7cb63ea6-499d-4ed3-bfc8-934ede81615b)
 
 
 ```sql
@@ -154,7 +154,7 @@ HAVING COUNT(c.customer_id) > 1;
 
 **Question 7**
 
--- ![Screenshot 2025-04-29 141644](https://github.com/user-attachments/assets/ff9b5962-abb0-47c6-bda0-1ac6f4e4120a)
+![Screenshot 2025-04-29 141644](https://github.com/user-attachments/assets/ff9b5962-abb0-47c6-bda0-1ac6f4e4120a)
 
 
 ```sql
@@ -174,7 +174,7 @@ WHERE purch_amt > (
 
 **Question 8**
 
--- ![Screenshot 2025-04-29 141746](https://github.com/user-attachments/assets/96314594-cec5-4bff-96ac-2fcdc0cbd80d)
+![Screenshot 2025-04-29 141746](https://github.com/user-attachments/assets/96314594-cec5-4bff-96ac-2fcdc0cbd80d)
 
 
 ```sql
@@ -195,7 +195,7 @@ WHERE city <> (
 
 **Question 9**
 
--- ![Screenshot 2025-04-29 141841](https://github.com/user-attachments/assets/84a903d4-efa6-46ff-9adb-e3ab75e99d54)
+![Screenshot 2025-04-29 141841](https://github.com/user-attachments/assets/84a903d4-efa6-46ff-9adb-e3ab75e99d54)
 
 
 ```sql
@@ -212,7 +212,7 @@ WHERE AGE < 30;
 
 **Question 10**
 
--- ![Screenshot 2025-04-29 151446](https://github.com/user-attachments/assets/79dfb804-513e-4811-8595-3421250804bf)
+![Screenshot 2025-04-29 151446](https://github.com/user-attachments/assets/79dfb804-513e-4811-8595-3421250804bf)
 
 
 ```sql
